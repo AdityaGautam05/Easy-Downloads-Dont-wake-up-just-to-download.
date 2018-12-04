@@ -22,4 +22,4 @@ At the time you want the scripts to run, it'll run without any problem.
 
 (Note: You must not stop your download before quiting the torrent client, just quit it, so that the next time the script runs it downloads it)
 
-*It was made for my college friend, as it loves downloading things.
+*It was made for my college friend, as he loves downloading things.
